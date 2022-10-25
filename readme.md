@@ -1,4 +1,4 @@
-## Typora破解激活（需求量大的可以fork一下，防止被和谐）
+## Typora激活（需求量大的可以fork一下，防止被和谐）
 
 ### 一、前言
 
@@ -17,7 +17,7 @@ Typora从免费版本到收费版，对于囊中羞涩的学生党不方便使�
 
 ---
 
-## Typora crack and activae（If you need it, you can fork it，in case it get banned）
+## Typora activation（If you need it, you can fork it，in case it get banned）
 
 ### 1、preface
 
