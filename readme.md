@@ -1,3 +1,8 @@
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=markyin0707/typora-activation&type=Date)](https://star-history.com/#markyin0707/typora-activation&Date)
+
+
 ## Typora激活（star之后可以watch一下，如果有新的激活方案，会马上更新）
 
 ### 一、前言
