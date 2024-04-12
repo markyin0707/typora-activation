@@ -2,12 +2,13 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=markyin0707/typora-activation&type=Date)](https://star-history.com/#markyin0707/typora-activation&Date)
 
-
 ## Typora激活
 
 ### 一、前言
 
 Typora从免费版本到收费版，对于囊中羞涩的学生党不方便使用。并且购买的收费版也只是只能购买一个大版本，不能永久一次性购买，这一点确实有点不够良心。所以在没有经济独立的学生党可以使用一下该版本的Typora激活，但是希望有条件支持正版的工作党🔞🈲️请支持正版，毕竟开发公司开发软件也很辛苦。
+
+还有一种激活最新版1.8.10的方案[链接](https://blog.csdn.net/qq_37636739/article/details/136338284)
 
 ### 二、激活步骤
 
@@ -28,6 +29,8 @@ Typora从免费版本到收费版，对于囊中羞涩的学生党不方便使�
 ### 1、preface
 
 Typora from the free version to the paid version, it is not easy for the cash-strapped student party to use. And the paid version can only be purchased in a large version, not a permanent one-time purchase, which is a bit bad. So students who are not financially independent can use this version of Typora activation. However, if you have a job  🔞 🈲️ and want to support the legal version, please support the legal version. After all, it is very hard for development companies to develop software.
+
+There is also a solution to activate the latest version 1.8.10 [link](https://blog.csdn.net/qq_37636739/article/details/136338284)
 
 ### 2、The activation step
 
