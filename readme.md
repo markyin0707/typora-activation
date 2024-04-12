@@ -3,7 +3,7 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=markyin0707/typora-activation&type=Date)](https://star-history.com/#markyin0707/typora-activation&Date)
 
 
-## Typora激活（star之后可以watch一下，如果有新的激活方案，会马上更新）
+## Typora激活
 
 ### 一、前言
 
@@ -18,11 +18,12 @@ Typora从免费版本到收费版，对于囊中羞涩的学生党不方便使�
 
 ### 三、注意事项
 
-请下载对应版本文件，***不要更新typora***，毕竟typora更新变化不大，老版本功能和新版本基本上没有很大的差距。不能保证后续版本该方法任然有效。
+1. 请下载对应版本文件，***不要更新typora***，毕竟typora更新变化不大，老版本功能和新版本基本上没有很大的差距。不能保证后续版本该方法任然有效。
+2. star之后可以watch一下，如果有新的激活方案，会马上更新
 
 ---
 
-## Typora activation（If you need it, you can fork it，in case it get banned）
+## Typora activation
 
 ### 1、preface
 
@@ -37,4 +38,5 @@ Typora from the free version to the paid version, it is not easy for the cash-st
 
 ### 3、Matters needing attention
 
-Download the corresponding version file，***Do Not Update Typora***.After all, typora update changes little, the old version and the new version of functions are basically no big gap. There is no guarantee that this method will work in subsequent versions.
+1. Download the corresponding version file，***Do Not Update Typora***.After all, typora update changes little, the old version and the new version of functions are basically no big gap. There is no guarantee that this method will work in subsequent versions.
+2. You can watch it after star. If there is a new activation plan, it will be updated immediately.
