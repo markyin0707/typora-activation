@@ -12,7 +12,7 @@ Typora从免费版本到收费版，对于囊中羞涩的学生党不方便使�
 
 ### 二、激活步骤
 
-1. 先安装 typora-setup-x64-1.3.8.exe ，记下安装路径
+1. 先安装 typora-setup-x64-1.6.7.exe ，记下安装路径
 2. 将 winmm.dll 替换到安装路径下含有typora.exe的文件夹中
 3. 重启typora，即可激活
 5. 有条件请支持正版
